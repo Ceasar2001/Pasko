@@ -90,7 +90,6 @@ export default function App() {
 
     <footer className="absolute bottom-4 left-0 right-0 text-center text-white/70 text-lg z-10">
       <p>May your holidays be filled with joy and wonder! ✨</p>
-      <h2>Created By CeasarEcleo 😎</h2>
     </footer>
   </div>
 );
